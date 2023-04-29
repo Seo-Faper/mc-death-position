@@ -1,0 +1,6 @@
+main: kr.ac.cju.cifrar.DeathPosition
+name: DeathPosition
+version: 1.0
+author: faper
+api-version: 1.19
+description: When player die, show Death Position to player
