@@ -1,18 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="mc-death-position:jar" />
+    </artifacts-to-build>
+  </component>
   <component name="AutoImportSettings">
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dfc2fe85-6b8a-4bee-b204-029480af10f5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mc-death-position.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/kr/ac/cju/cifrar/DeathPosition.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/plugin.yml" afterDir="false" />
+    <list default="true" id="dfc2fe85-6b8a-4bee-b204-029480af10f5" name="Changes" comment="init plugins">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/kr/ac/cju/cifrar/DeathPosition.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/kr/ac/cju/cifrar/DeathPosition.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,11 +62,34 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1682810661317</updated>
-      <workItem from="1682810662358" duration="731000" />
+      <workItem from="1682810662358" duration="4293000" />
     </task>
+    <task id="LOCAL-00001" summary="init plugins">
+      <created>1682811557178</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1682811557178</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="init plugins" />
+    <option name="LAST_COMMIT_MESSAGE" value="init plugins" />
   </component>
 </project>
