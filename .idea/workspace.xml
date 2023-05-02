@@ -9,7 +9,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dfc2fe85-6b8a-4bee-b204-029480af10f5" name="Changes" comment="입장 메세지 + 사망 시 좌표">
+    <list default="true" id="dfc2fe85-6b8a-4bee-b204-029480af10f5" name="Changes" comment="입장 메세지 + 사망 시 좌표 색상 변경">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/kr/ac/cju/cifrar/DeathPosition.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/kr/ac/cju/cifrar/DeathPosition.java" afterDir="false" />
     </list>
@@ -39,21 +39,21 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "project.structure.last.edited": "Artifacts",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Artifacts&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -62,7 +62,9 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1682810661317</updated>
-      <workItem from="1682810662358" duration="7632000" />
+      <workItem from="1682810662358" duration="7647000" />
+      <workItem from="1682820526868" duration="5433000" />
+      <workItem from="1682906171704" duration="2474000" />
     </task>
     <task id="LOCAL-00001" summary="init plugins">
       <created>1682811557178</created>
@@ -78,7 +80,14 @@
       <option name="project" value="LOCAL" />
       <updated>1682814977398</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="입장 메세지 + 사망 시 좌표 색상 변경">
+      <created>1682818328726</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1682818328726</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -98,6 +107,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="init plugins" />
     <MESSAGE value="입장 메세지 + 사망 시 좌표" />
-    <option name="LAST_COMMIT_MESSAGE" value="입장 메세지 + 사망 시 좌표" />
+    <MESSAGE value="입장 메세지 + 사망 시 좌표 색상 변경" />
+    <option name="LAST_COMMIT_MESSAGE" value="입장 메세지 + 사망 시 좌표 색상 변경" />
   </component>
 </project>
